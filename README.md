@@ -1,2 +1,3 @@
 # praktika1pt2
-poryadok sborki proekta na yazike C++
+Порядок сборки проекта на языке С++ и Go.
+
